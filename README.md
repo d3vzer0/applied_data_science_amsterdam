@@ -1,7 +1,7 @@
 # Applied Data Science for Security Professionals
 <img src="img/logo_white_bkg_small.png" width="200" align="left" >
 
-### Booking.com Trainings (March 4th-8th, 2018) presented by GTK Cyber
+### ING Trainings (June 3rd-5th, 2019) presented by GTK Cyber
 
 <img src="img/ing-logo.jpg" width="150" align="right" > GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
 only provide high standard hands-on trainings, but introduce students to the most cutting-edge technologies and advancements in artificial intelligence,
@@ -16,23 +16,23 @@ Griffon is a environment for data science. Griffon is based on Ubuntu MATE and i
 
 ### Instructors
 
-- [Charles Givre, CISSP](http://thedataist.com/) - Data Scientist
-- [Austin Taylor](http://www.austintaylor.io) - Security Researcher
+- Aaron Blum - Data Scientist:  aaron@gtkcyber.com
 
 ### HITB 2018 Lectures:
 
 <a href="slides/readme.html">/Slides</a>
 - <a href="slides/Module 0 - Introduction.pdf">Introduction</a>
+- <a href="slides/Module 0.5 - Overview of Regular Expressions.pdf">Introduction to Regular Expressions</a>
 - <a href="slides/Module 1 - Exploratory Data Analysis in 1 Dimension.pdf">Exploratory Data Analysis in 1 Dimension</a>
 - <a href="slides/Module 2 - Exploratory Data Analysis in 2 Dimensions.pdf">Exploratory Data Analysis in 2 Dimensions</a>
-- <a href="slides/Module 3 - Hunting with Data Science.pdf">Hunting with Data Science</a>
 - <a href="slides/Module 4 - Data Visualization.pdf">Data Visualization</a>
 - <a href="slides/Module 5.1 - Machine Learning (Feature Engineering).pdf">Machine Learning (Feature Engineering)</a>
 - <a href="slides/Module 5.2 - Machine Learning (Supervised).pdf">Machine Learning (Supervised)</a>
 - <a href="slides/Module 6 - Machine Learning (Unsupervised).pdf">Machine Learning (Unsupervised)</a>
-- <a href="slides/Module 7 - PySpark + ELK + Kafka.pdf">PySpark + ELK + Kafka</a>
-- <a href="slides/Module 8 - Apache Drill.pdf">Apache Drill</a>
+- <a href="slides/Module 7 - Machine Learning (Unsupervised).pdf">Anomaly Detetection</a>
 - <a href="slides/Module 9 - Hacking Machine Learning Models.pdf">Hacking Machine Learning Models</a>
+- <a href="slides/Module 3 - Hunting with Data Science.pdf">Hunting with Data Science</a>
+
 
 
 GitHub Structure
