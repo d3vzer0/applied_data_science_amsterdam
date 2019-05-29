@@ -20,7 +20,7 @@ Griffon is a environment for data science. Griffon is based on Ubuntu MATE and i
 
 ### HITB 2018 Lectures:
 
-<a href="slides/readme.html">/Slides</a>
+<a href="https://github.com/gtkcyber/applied_data_science_ing/tree/master/slides">/Slides</a>
 - <a href="slides/Module 0 - Introduction.pdf">Introduction</a>
 - <a href="slides/Module 0.5 - Overview of Regular Expressions.pdf">Introduction to Regular Expressions</a>
 - <a href="slides/Module 1 - Exploratory Data Analysis in 1 Dimension.pdf">Exploratory Data Analysis in 1 Dimension</a>
