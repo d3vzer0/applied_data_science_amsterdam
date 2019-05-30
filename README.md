@@ -16,9 +16,9 @@ Griffon is a environment for data science. Griffon is based on Ubuntu MATE and i
 
 ### Instructors
 
-- Aaron Blum - Data Scientist:  aaron@gtkcyber.com
+- Brian Genz - Data Scientist:  brian.genz@gtkcyber.com
 
-### HITB 2018 Lectures:
+### Lectures:
 
 <a href="https://github.com/gtkcyber/applied_data_science_ing/tree/master/slides">/Slides</a>
 - <a href="slides/Module 0 - Introduction.pdf">Introduction</a>
