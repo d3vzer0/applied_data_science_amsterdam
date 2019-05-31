@@ -1,9 +1,9 @@
 # Applied Data Science for Security Professionals
 <img src="img/logo_white_bkg_small.png" width="200" align="left" >
 
-### ING Trainings (June 3rd-5th, 2019) presented by GTK Cyber
+### Amsterdam Trainings (June 3rd-5th, 2019) presented by GTK Cyber
 
-<img src="img/ing-logo.jpg" width="150" align="right" > GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
+GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
 only provide high standard hands-on trainings, but introduce students to the most cutting-edge technologies and advancements in artificial intelligence,
 all with a focus on direct applicability to cyber security.
 
